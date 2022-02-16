@@ -14,7 +14,7 @@ namespace CollectionViewer.Model
         /// </summary>
         /// <param name="header">Заголовок таблицы</param>
         /// <returns>Нижняя граница таблицы</returns>
-        public string ToString(Header header)
+        public string ToString(in Header header)
         {
             string result = string.Empty;
 
