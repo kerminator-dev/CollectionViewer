@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a17b754d-911e-49bb-9625-4270ed40bef2": {
+      "ProjectGuid": "a17b754d-911e-49bb-9625-4270ed40bef2",
+      "DisplayName": "TableViewer",
+      "ColorIndex": 0
+    },
+    "68286c61-351f-48d3-a26e-0edce4f0aacf": {
+      "ProjectGuid": "68286c61-351f-48d3-a26e-0edce4f0aacf",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

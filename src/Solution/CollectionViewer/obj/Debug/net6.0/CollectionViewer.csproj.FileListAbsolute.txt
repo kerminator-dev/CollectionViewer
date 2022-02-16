@@ -1,0 +1,11 @@
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\bin\Debug\net6.0\CollectionViewer.deps.json
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\bin\Debug\net6.0\CollectionViewer.dll
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\bin\Debug\net6.0\ref\CollectionViewer.dll
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\bin\Debug\net6.0\CollectionViewer.pdb
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.AssemblyInfoInputs.cache
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.AssemblyInfo.cs
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.csproj.CoreCompileInputs.cache
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.dll
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\obj\Debug\net6.0\ref\CollectionViewer.dll
+C:\Users\525.khokhlovns\source\repos\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.pdb
