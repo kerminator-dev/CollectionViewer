@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WBjOuk2jCUw0RTPEd/jGDbZ628Z+xjjzWZ6WR7fi1H9K8C3qgZgtUvHRAWunoKxUVoqR4ZYilcmtDF3/nfEm4Q==",
+  "dgSpecHash": "BVzWKVBgYZhqQz+RpgTqoDkYGDbds4PulNLeGu28krQ3iOjclWB8Qz7y2x38BxHh3KyPkq8oaVl8Sc6SzCF9qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\CollectionViewer\\CollectionViewer.csproj",
+  "projectFilePath": "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\CollectionViewer\\CollectionViewer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

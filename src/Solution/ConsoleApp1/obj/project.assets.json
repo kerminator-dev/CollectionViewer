@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\525.khokhlovns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\525.khokhlovns\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\CollectionViewer\\CollectionViewer.csproj": {
-              "projectPath": "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\CollectionViewer\\CollectionViewer.csproj"
+            "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\CollectionViewer\\CollectionViewer.csproj": {
+              "projectPath": "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\CollectionViewer\\CollectionViewer.csproj"
             }
           }
         }

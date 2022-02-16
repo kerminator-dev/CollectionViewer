@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\CollectionViewer\\CollectionViewer.csproj",
+      "projectUniqueName": "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\CollectionViewer\\CollectionViewer.csproj",
       "projectName": "CollectionViewer",
-      "projectPath": "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\CollectionViewer\\CollectionViewer.csproj",
+      "projectPath": "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\CollectionViewer\\CollectionViewer.csproj",
       "packagesPath": "C:\\Users\\525.khokhlovns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\525.khokhlovns\\source\\repos\\Solution\\CollectionViewer\\obj\\",
+      "outputPath": "C:\\Users\\525.khokhlovns\\source\\repos\\CollectionViewer\\CollectionViewer\\src\\Solution\\CollectionViewer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\525.khokhlovns\\AppData\\Roaming\\NuGet\\NuGet.Config",
