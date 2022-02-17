@@ -1,4 +1,4 @@
-﻿namespace CollectionViewer.Model
+﻿namespace CollectionViewer
 {
     public class Enums
     {

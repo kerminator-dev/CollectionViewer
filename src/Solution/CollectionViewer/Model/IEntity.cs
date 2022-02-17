@@ -1,4 +1,4 @@
-﻿using static CollectionViewer.Model.Enums;
+﻿using static CollectionViewer.Enums;
 
 namespace CollectionViewer.Model
 {
