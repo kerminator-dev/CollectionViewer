@@ -13,7 +13,6 @@ C:\Users\525.khokhlovns\source\repos\CollectionViewer\CollectionViewer\src\Solut
 C:\Users\525.khokhlovns\source\repos\CollectionViewer\CollectionViewer\src\Solution\CollectionViewer\bin\Debug\net6.0\CollectionViewer.dll
 C:\Users\525.khokhlovns\source\repos\CollectionViewer\CollectionViewer\src\Solution\CollectionViewer\bin\Debug\net6.0\ref\CollectionViewer.dll
 C:\Users\525.khokhlovns\source\repos\CollectionViewer\CollectionViewer\src\Solution\CollectionViewer\bin\Debug\net6.0\CollectionViewer.pdb
-C:\Users\525.khokhlovns\source\repos\CollectionViewer\CollectionViewer\src\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.csproj.AssemblyReference.cache
 C:\Users\525.khokhlovns\source\repos\CollectionViewer\CollectionViewer\src\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\525.khokhlovns\source\repos\CollectionViewer\CollectionViewer\src\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.AssemblyInfoInputs.cache
 C:\Users\525.khokhlovns\source\repos\CollectionViewer\CollectionViewer\src\Solution\CollectionViewer\obj\Debug\net6.0\CollectionViewer.AssemblyInfo.cs
