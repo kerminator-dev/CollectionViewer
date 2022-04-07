@@ -32,6 +32,8 @@ var table = new Table
     name: "My table"
 );
 
+table.Initialize();
+
 Console.WriteLine(table.ToString());
 
 class Person : IEntity

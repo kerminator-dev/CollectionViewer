@@ -34,7 +34,10 @@
             Body = new Body(entities);
             Footer = new Footer();
             Name = name;
+        }
 
+        public void Initialize()
+        {
             // Обновление 
             UpdateColumnsCount();
             UpdateColumnWidths();

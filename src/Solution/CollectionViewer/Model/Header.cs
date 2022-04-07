@@ -1,4 +1,5 @@
-﻿using static CollectionViewer.Enums;
+﻿using System.Text;
+using static CollectionViewer.Enums;
 
 namespace CollectionViewer.Model
 {
@@ -24,66 +25,65 @@ namespace CollectionViewer.Model
         /// <returns>Заголовок таблицы в string</returns>
         public string ToString(string tableName)
         {
-            // Можно было бы всё раскидать по методам по типу string GetTopBorder()/GetColumnNames()/GetTableName(),
-            // Но будет путанница
+            var result = new StringBuilder();
 
-            string result = ((char)GridChars.TopLeftCorner).ToString();
+            result.Append((char)GridChars.TopLeftCorner);
             int columnsCount = Columns.Count;
 
             // Добавление верхней границы
             foreach (var column in this.Columns)
             {
                 for (int i = 0; i < column.Width; i++)
-                    result += (char)GridChars.RowSeparator;
+                    result.Append((char)GridChars.RowSeparator);
 
                 if (--columnsCount > 0)
-                    result += (char)GridChars.RowSeparator;
+                    result.Append((char)GridChars.RowSeparator);
             }
 
-            result += (char)GridChars.TopRightCorner + Environment.NewLine;
+            result.Append((char)GridChars.TopRightCorner + Environment.NewLine);
 
             // Добавление названия таблицы
             int totalLineLength = result.Length;
             columnsCount = Columns.Count;
-            result += (char)GridChars.ColumnSeparator + Helper.СutString(tableName, totalLineLength - 4, Align.Center) + (char)GridChars.ColumnSeparator + Environment.NewLine;
+            result.Append((char)GridChars.ColumnSeparator + Helper.СutString(tableName, totalLineLength - 4, Align.Center) + (char)GridChars.ColumnSeparator + Environment.NewLine);
 
-            result += (char)GridChars.LeftSeparator;
+            result.Append((char)GridChars.LeftSeparator);
 
             foreach (var column in this.Columns)
             {
                 for (int i = 0; i < column.Width; i++)
-                    result += (char)GridChars.RowSeparator;
+                    result.Append((char)GridChars.RowSeparator);
 
                 if (--columnsCount > 0)
-                    result += (char)GridChars.TopSeparator;
+                    result.Append((char)GridChars.TopSeparator);
             }
 
-            result += (char)GridChars.RightSeparator + Environment.NewLine;
+            result.Append((char)GridChars.RightSeparator + Environment.NewLine);
 
             // Добавление названий столбцов
             foreach (var column in this.Columns)
             {
-                result += (char)GridChars.ColumnSeparator + column.ToString();
+                result.Append((char)GridChars.ColumnSeparator + column.ToString());
             }
 
-            result += (char)GridChars.ColumnSeparator + Environment.NewLine;
+            result.Append((char)GridChars.ColumnSeparator + Environment.NewLine);
 
             // Добавление нижней границы
             columnsCount = Columns.Count;
 
-            result += (char)GridChars.LeftSeparator;
+            result.Append((char)GridChars.LeftSeparator);
             foreach (var column in this.Columns)
             {
                 for (int i = 0; i < column.Width; i++)
-                    result += (char)GridChars.RowSeparator;
+                    result.Append((char)GridChars.RowSeparator);
 
                 if (--columnsCount > 0)
-                    result += (char)GridChars.CenterSeparator;
+                    result.Append((char)GridChars.CenterSeparator);
             }
 
-            result += (char)GridChars.RightSeparator + Environment.NewLine;
+            result.Append((char)GridChars.RightSeparator + Environment.NewLine);
 
-            return result;
+            return result.ToString();
         }
 
         /// <summary>
