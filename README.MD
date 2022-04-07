@@ -4,4 +4,4 @@
 
 ## Overview
 
-A library that allows to output collections of data in table text format.
+A library that allows to output collections of data in table text format with ability to specify column width and align.
