@@ -53,7 +53,7 @@ class Person : IEntity
     /// Реализация интерфейс IEntity
     /// Быстрый доступ ко всем полям этого класса
     /// </summary>
-    /// <returns>Коллекция значений из полей, преобразованных в string</returns>
+    /// <returns>Коллекция значений полей, необходимых для вывода, преобразованных в string</returns>
     public IReadOnlyList<string> ToPropsList()
     {
         return new List<string>()
